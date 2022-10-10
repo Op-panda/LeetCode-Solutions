@@ -1,1 +1,1 @@
-*Leetcode sloution Repository*
+<h1>Leetcode Solutions Repo</h1>
